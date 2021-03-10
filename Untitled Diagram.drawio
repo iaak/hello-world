@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T11:17:05.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.4.6" etag="Df0dR3mvnpIggEtGYr2S" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">7VpNl9ogFP01WU5PAvnQpfGjs+lqek7XaDByhoSUoGb66wsJMSpJ6+lopmZ0IzzgQd699xFQC06T4itH2eYbizC1gB0VFpxZAICRB+SXsrxVFgeO7coScxJpW2N4Ib+wNtbdtiTC+UlHwRgVJDs1rlia4pU4sSHO2f6025rR01kzFGPD8LJC1LT+IJHYaKvjj5uGZ0zijZ56BIKqYYlWrzFn21TPZwG4Lj9Vc4JqX/pB8w2K2P7IBOcWnHLGRFVKiimmKrh12Kpxi47Ww7o5TsUlA4DjQ68atEN0i+tV+1QODyOyU2sUbzou/s+tWlgocCGeECVxasGJgkHOhrksyLYy3Kl4yktQVavjZ0UzVpZi/V3OseTnFrnacuLaCk7WAOQDSBrISrjfEIFfMrRSLXtJRWnbiITKmiOLKM8qbqxJgeXzhiUuqlQ2H0KvVh1TlOe6TNES0/AA5JRRxmVTylI1aS44e8WtxpoqyvuaUFp3kiRY2KPA9tREHEVEhuvMgQrZAiWEKsU8Y7rDgqyQbtD6cHxdP/ILFl4YTNXDVmjMNBQwZDIuRCh3nnqoHebKI53ofoKpaOWqUxor594h1qorLjoJ5RxoKvWPWYIFf5Nd9IAAuF80obT4AdRO9o2SXN1lc6Sh2oa0duOD74a/sqAp3E1nv4XOQ6BQAP3pZNQDhSheC5NAQ6RKcK3M15n2yqzWkflkRNPWSS51xMuINFmzcvhIpoNJptA3FGLD2nKkEWDbpkgOxveqZGSoJKOKJoPg0uCyKrTPOQOd/jkzNjgjSDIQyjhgMgn7SD9Vfu+BM66xE38AZ1z7vnfjPWcSlM+3G0/mrgPBf7QbL5kQLGmEEup6JZc+dmkX9K8ex1DPm8EvpZdTIrVCfgywNhkYnAc9IVFEu5jbsNP+d3a+m0fXSJSuAbXbBrXbivR1gAYG0MUD6NsDDf2+gYYXAH2XO0ZvL1BdO8YA7zJc12BLvl2tsATy78mBY/l+g5ZlBxWfjJFUlOvxQsubqYhuBct15M1DzR/Pw99VZfbkduDXCfSNlB2MDaRaU3hwQ2W33bg/hH0nwm4/Gt1S2kO90f7wk8Mw6WLeapsngbvki+d7TjB/8OXKfDHvd9eI0C03r+s++5vD+Byr+sfGI6T8G743mLeqKRPSQJG4BKyhnQHhjc+AxpuixLvfM6Bn3ok+sL4F1p7xq4kb9Hze98wbPMpy8cD62lhDQ9f9Y21e4ulM/kC8F8Tbdu4r4S2rzf/3yrajf0nC+W8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-10T11:27:24.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Z7U4Wz-N5951IpMvJWl_" version="14.4.6" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="2062" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="21635" value="&lt;div style=&quot;text-align: center ; font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#F08705;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=center;opacity=50;verticalAlign=top;spacing=15;" parent="1" vertex="1">
+          <mxGeometry x="330" y="430" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="21636" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#736CA8;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=left;opacity=50;spacing=15;" parent="1" vertex="1">
+          <mxGeometry x="280" y="260" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="21638" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 百度" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#99FFCC;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=left;opacity=50;spacing=15;" parent="1" vertex="1">
+          <mxGeometry x="80" y="380" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="21643" value="中国电信" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#12AAB5;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=center;opacity=50;spacing=15;" parent="1" vertex="1">
+          <mxGeometry x="550" y="350" width="246" height="246" as="geometry" />
+        </mxCell>
+        <mxCell id="21645" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#12AAB5;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=center;opacity=50;spacing=15;" parent="1" vertex="1">
+          <mxGeometry x="140" y="300" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="21646" value="Tencent" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#AE4132;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=center;opacity=50;spacing=15;" parent="1" vertex="1">
+          <mxGeometry x="400" y="206.5" width="191.5" height="191.5" as="geometry" />
+        </mxCell>
+        <mxCell id="21647" value="y" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#56517E;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=center;opacity=50;spacing=15;" parent="1" vertex="1">
+          <mxGeometry x="751" y="580" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NgzGpNJQbL-RKRl9nfVc-21657" value="Alibaba" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="436.5" y="630" width="40" height="20" as="geometry" />
+        </mxCell>
+        <object label="&lt;div style=&quot;text-align: center ; font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;" id="21640">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#007FFF;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=center;opacity=50;verticalAlign=bottom;spacingBottom=15;spacing=15;" parent="1" vertex="1">
+            <mxGeometry x="351.5" y="540" width="210" height="210" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
