@@ -1,77 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T02:03:34.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="gcr8A-fpI0TWjQP89RbX" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T02:05:58.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="dx4afz7_EiWM_YNEuuDt" version="14.4.9" type="github">
   <diagram id="1nKACnH8L-RzWteOibTx" name="Page-1">
     <mxGraphModel dx="2076" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Sf-YvudpWmYmQgdypYDF-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="1">
-          <mxGeometry x="509.99999999999994" y="150" width="136.67" height="114.8" as="geometry" />
+          <mxGeometry x="419.99999999999994" y="130" width="136.67" height="114.8" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Discs.svg;" vertex="1" parent="1">
-          <mxGeometry x="659.28" y="154.6" width="71.43" height="60" as="geometry" />
+          <mxGeometry x="569.28" y="134.6" width="71.43" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;共享数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="646.6700000000001" y="224.59999999999997" width="100" height="20" as="geometry" />
+          <mxGeometry x="556.6700000000001" y="204.59999999999997" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Images.svg;" vertex="1" parent="1">
-          <mxGeometry x="269.24" y="542.4" width="81.52" height="75" as="geometry" />
+          <mxGeometry x="179.24" y="522.4" width="81.52" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" vertex="1" parent="1">
-          <mxGeometry x="577.68" y="497.4" width="81.6" height="120" as="geometry" />
+          <mxGeometry x="487.67999999999995" y="477.4" width="81.6" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Devices_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="800" y="497.4" width="130" height="130" as="geometry" />
+          <mxGeometry x="710" y="477.4" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-7" value="" style="endArrow=classic;html=1;entryX=0.471;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sf-YvudpWmYmQgdypYDF-1" target="Sf-YvudpWmYmQgdypYDF-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="585" y="397.4" as="sourcePoint" />
-            <mxPoint x="395" y="417.4" as="targetPoint" />
+            <mxPoint x="495" y="377.4" as="sourcePoint" />
+            <mxPoint x="305" y="397.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-8" value="" style="endArrow=classic;html=1;entryX=0.454;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sf-YvudpWmYmQgdypYDF-1" target="Sf-YvudpWmYmQgdypYDF-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="525.8444655050384" y="267.4" as="sourcePoint" />
-            <mxPoint x="376.9459200000001" y="447.36800000000005" as="targetPoint" />
+            <mxPoint x="435.84446550503844" y="247.39999999999998" as="sourcePoint" />
+            <mxPoint x="286.9459200000001" y="427.36800000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-9" value="" style="endArrow=classic;html=1;entryX=0.4;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.546;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Sf-YvudpWmYmQgdypYDF-1" target="Sf-YvudpWmYmQgdypYDF-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="663.8944655050384" y="267.4" as="sourcePoint" />
-            <mxPoint x="514.9959200000001" y="447.36800000000005" as="targetPoint" />
+            <mxPoint x="573.8944655050384" y="247.39999999999998" as="sourcePoint" />
+            <mxPoint x="424.99592000000007" y="427.36800000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Discs.svg;" vertex="1" parent="1">
-          <mxGeometry x="780" y="310" width="71.43" height="60" as="geometry" />
+          <mxGeometry x="690" y="290" width="71.43" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-11" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Discs.svg;" vertex="1" parent="1">
-          <mxGeometry x="518.3299999999999" y="334.59999999999997" width="71.43" height="60" as="geometry" />
+          <mxGeometry x="428.3299999999999" y="314.59999999999997" width="71.43" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Discs.svg;" vertex="1" parent="1">
-          <mxGeometry x="308.56999999999994" y="334.59999999999997" width="71.43" height="60" as="geometry" />
+          <mxGeometry x="218.56999999999994" y="314.59999999999997" width="71.43" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-13" value="&lt;font style=&quot;font-size: 20px&quot;&gt;$$\alpha \times共享数据 $$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="419.9999999999999" width="260" height="20" as="geometry" />
+          <mxGeometry x="50" y="399.9999999999999" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-14" value="&lt;font style=&quot;font-size: 20px&quot;&gt;$$\alpha \times 共享数据$$&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="460.71000000000004" y="419.9999999999999" width="270" height="20" as="geometry" />
+          <mxGeometry x="370.71000000000004" y="399.9999999999999" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-15" value="&lt;font style=&quot;font-size: 20px&quot;&gt;$$\alpha \times 共享数据$$&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="744.99" y="403.99999999999994" width="270" height="20" as="geometry" />
+          <mxGeometry x="654.99" y="383.99999999999994" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-16" value="&lt;font style=&quot;font-size: 20px&quot;&gt;本地数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="627.4" width="100" height="20" as="geometry" />
+          <mxGeometry x="170" y="607.4" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-17" value="&lt;font style=&quot;font-size: 20px&quot;&gt;本地数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="640" width="100" height="20" as="geometry" />
+          <mxGeometry x="770" y="620" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-18" value="&lt;font style=&quot;font-size: 20px&quot;&gt;本地数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="568.48" y="627.4" width="100" height="20" as="geometry" />
+          <mxGeometry x="478.48" y="607.4" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-19" value="&lt;font style=&quot;font-size: 20px&quot;&gt;下发给参与节点的比例&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="720" width="220" height="20" as="geometry" />
+          <mxGeometry x="230" y="700" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sf-YvudpWmYmQgdypYDF-20" value="&lt;font style=&quot;font-size: 20px&quot;&gt;$$\alpha$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="720" width="110" height="20" as="geometry" />
+          <mxGeometry x="125" y="700" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
